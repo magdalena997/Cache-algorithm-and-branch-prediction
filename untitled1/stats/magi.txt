@@ -1,0 +1,2 @@
+Set asociativity	Block size	Cache size[KB]	Block number	Cache Hit	Cache Miss	Hit ratio
+----------------------------------------------------------------------------------
